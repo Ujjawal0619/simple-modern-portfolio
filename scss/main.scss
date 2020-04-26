@@ -1,4 +1,5 @@
 @import 'config';
+@import 'menu';// menu can use the mixin of config as it is declear before
 
 * {
     box-sizing: border-box;
